@@ -43,7 +43,7 @@ Open the notebook (.ipynb file) in Jupyter Notebook or Google Colab and execute 
 
 Author:
 
-[Your Name]
+Rahul yadav suresh
 
 References:
 
