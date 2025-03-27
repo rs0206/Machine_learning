@@ -47,6 +47,6 @@ Rahul yadav suresh
 
 References:
 
-UCI Machine Learning Repository
-Scikit-learn Documentation
+UCI Machine Learning Repository,
+Scikit-learn Documentation,
 Vapnik, V. (1998). Statistical Learning Theory
